@@ -1,0 +1,95 @@
+* {
+	background-color: beige;
+	font-family: verdana;
+}
+
+h1 {
+	position: relative;
+	top: 10px;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+	background-color: #D9806C;
+}
+
+
+#header {
+	position: relative;
+	top: -10px;
+	height: 75px;
+	background-color: #D9806C;
+	/* border: 1px dashed maroon; */
+}
+
+ul {
+	position: absolute;
+	list-style-type: none;
+	top: 10px;
+	bottom: 10px;
+	left: 10px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	/* border: 1px dashed red; */
+	background-color: #466D8C;
+}
+
+li {
+	position: relative;
+	z-index: 1;
+	display: block;
+	left: 2%;
+	right: 2%;
+	width: 120px;
+	height: 53px;
+	padding: 10px 0px 10px 0px;
+	/* border: 1px dashed lightblue; */
+	background-color: #466D8C;
+}
+
+#navbar {
+	float:left;
+	position: relative;
+	height: 500px;
+	width: 150px;
+	background-color: #466D8C;
+	/* border: 1px dashed navy; */
+}
+
+a:link, a:visited {
+	position: absolute;
+	width: 120px;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	color: #000000;
+	background-color: #B0DBE8;
+	border-radius: 5px;
+	border: 2px solid #00294A;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	padding: center;
+}
+
+#tools {
+	bottom: -185px;
+	font-size: .5em;
+	height:;
+	background-color: #6DAABD;
+}
+
+#content {
+	position: relative;
+	height: 500px;
+	width: 76.3%;
+	float: right;
+	background-color: #E3CB9F;
+}
+
+p {
+	text-align: center;
+	background-color: #E3CB9F;
+}
+
+#CMVButton {
+	left: 100px;
+}
