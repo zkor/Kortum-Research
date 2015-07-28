@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!--- Votechecker home page -->
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="Style-homepage.css">
+	</head>
+
+	<body>
+		<div id="header">
+			<h1> HOME </h1>
+		</div>
+
+		<div id="navbar">
+			<ul>
+				<li><a href="Homepage.html"> HOME </a></li>
+				<li><a href="CMV.html"> CHECK MY VOTE! </a></li>
+				<li><a href="Pollresults.html" > POLL RESULTS </a></li>
+				<li ><a href="Audit" id="tools"> TOOLS FOR PROFESSIONALS </a></li>
+			</ul>
+		</div>
+		<div id="content">
+		  <p> We can't seem to find a ballot with this ID#:______________. You may have misentered your ballot ID, or there may be a problem with your ballot</p>
+		  <p> Please enter your ballot ID again or report a problem.</p>
+		  
+		  <a href="CMV.html">Re-enter your ID</a>
+		  <a href="Report.html">Report a problem</a>
+		</div>
