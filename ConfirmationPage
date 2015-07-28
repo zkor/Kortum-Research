@@ -1,1 +1,30 @@
 
+<!DOCTYPE html>
+<!--- main search page -->
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="Style-searchpage.css">
+	</head>
+
+	<body>
+		<div id="header">
+			<h1> Check My Vote! </h1>
+		</div>
+
+		<div id="navbar">
+			<ul>
+				<li><a href="Homepage.html"> HOME </a></li>
+				<li><a href="CMV.html"> CHECK MY VOTE! </a></li>
+				<li><a href="Pollresults.html" > POLL RESULTS </a></li>
+				<li ><a href="Audit" id="tools"> TOOLS FOR PROFESSIONALS </a></li>
+			</ul>
+		</div>
+		<div id="content">
+		<p> Your ballot, #_____________, has been correctly cast and counted.</p>
+		<p> Thank you for voting!</p>
+		<a href="CMV.html"> Enter another ID</a>
+		<a href="Report.html">Report a problem</a>
+		
+		
+		</div>
