@@ -19,7 +19,7 @@
   			<input type="checkbox" name="issue" value="other"> Other:<br><input type="text" name="Description"><br>
   			<p></p>
   			<p> Additional comments/concerns?</p>
-  			<input type="text" name="comments" style="width: 300px; height: 200px;"><br>
+  			<input type="text" name="comments" style="width: 300px; height: 100px;"><br>
   			
 		 </div>
 	 </body>
