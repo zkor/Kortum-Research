@@ -12,7 +12,7 @@
 		</div>
 
 		<div id="content">
-			Select your problem:
+			<p><h3>Select your problem:</h3></p>
 			 <input type="checkbox" name="issue" value="missing"> My ballot is not showing up at all<br>
   			<input type="checkbox" name="issue" value="uncast"> My ballot says it was never cast<br>
   			<input type="checkbox" name="issue" value="miscast"> My ballot was cast, but it shouldn't have been<br>
