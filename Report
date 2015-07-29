@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!--- main search page -->
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="Style-searchpage.css">
+	</head>
+
+	<body>
+		<div id="header">
+			<h1> Check My Vote! </h1>
+		</div>
+
+		<div id="content">
+	      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
+  <input type="checkbox" name="vehicle" value="Car" checked="checked"> I have a car<br>
+  </div>
+  </body>
