@@ -17,5 +17,9 @@
   			<input type="checkbox" name="issue" value="uncast"> My ballot says it was never cast<br>
   			<input type="checkbox" name="issue" value="miscast"> My ballot was cast, but it shouldn't have been<br>
   			<input type="checkbox" name="issue" value="other"> Other:<br><input type="text" name="Description"><br>
+  			<p></p>
+  			<p> Additional comments/concerns?</p>
+  			<input type="text" name="comments"><br>
+  			
 		 </div>
 	 </body>
