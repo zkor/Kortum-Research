@@ -12,7 +12,10 @@
 		</div>
 
 		<div id="content">
-	      <input type="checkbox" name="vehicle" value="Bike"> I have a bike<br>
-  <input type="checkbox" name="vehicle" value="Car" checked="checked"> I have a car<br>
-  </div>
-  </body>
+			Select your problem:
+			 <input type="checkbox" name="issue" value="missing"> My ballot is not showing up at all<br>
+  			<input type="checkbox" name="issue" value="uncast"> My ballot says it was never cast<br>
+  			<input type="checkbox" name="issue" value="miscast"> My ballot was cast, but it shouldn't have been<br>
+  			<input type="checkbox" name="issue" value="other"> Other<br>
+		 </div>
+	 </body>
