@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<!--- Votechecker home page -->
+<html>
+
+	<head>
+		<link rel="stylesheet" type="text/css" href="Style-homepage.css">
+	</head>
+
+	<body>
+		<div id="header">
+			<h1> HOME </h1>
+		</div>
+		
+		</div id="content">
+		  <h4> Send my receipt via: </h4>
+		  <div id="print">
+		    
