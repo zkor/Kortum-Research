@@ -18,10 +18,12 @@
 		  </div>
 		  <div id="text">
 		  	<input type="checkbox" name="receipttype" value="text"> Text<br>
+		  	<p> Enter your phone number:</p>
 		  	<input type="text" name="phonenum"><br>
 		  </div>
 		  <div id="email">
 		  	<input type="checkbox" name="receipttype" value="email"> Email<br>
+		  	<p>Enter your email address:</p>
 		  	<input type="text" name="emailaddress"><br>
 		  </div>
 		  
