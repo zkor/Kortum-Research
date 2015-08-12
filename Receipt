@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--- Votechecker home page -->
+<!--- Votechecker receipt page -->
 <html>
 
 	<head>
@@ -8,10 +8,22 @@
 
 	<body>
 		<div id="header">
-			<h1> HOME </h1>
+			<h1> Receipt </h1>
 		</div>
 		
 		</div id="content">
 		  <h4> Send my receipt via: </h4>
 		  <div id="print">
+		   	<input type="checkbox" name="receipttype" value="print"> Print<br>
+		  </div>
+		  <div id="text">
+		  	<input type="checkbox" name="receipttype" value="text"> Text<br>
+		  	<input type="text" name="phonenum"><br>
+		  </div>
+		  <div id="email">
+		  	<input type="checkbox" name="receipttype" value="email"> Email<br>
+		  	<input type="text" name="emailaddress"><br>
+		  </div>
+		  
+		  	
 		    
