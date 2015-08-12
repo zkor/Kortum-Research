@@ -26,6 +26,9 @@
 		  	<p>Enter your email address:</p>
 		  	<input type="text" name="emailaddress"><br>
 		  </div>
+		  <a href="Receipt.html">Submit</a>
+		 </div>
+	</body>
 		  
 		  	
 		    
